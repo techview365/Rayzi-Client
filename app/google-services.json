@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "413696940358",
+    "project_id": "fhiky-93624",
+    "storage_bucket": "fhiky-93624.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:413696940358:android:19d5ddecd28b6f2f076d47",
+        "android_client_info": {
+          "package_name": "com.example.chiky"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "413696940358-0ddk6l3jk4g68ijmh39620ck09pja1k1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.chiky",
+            "certificate_hash": "cecd5c157b5745599b5ac70134319b3ebcb1a9a3"
+          }
+        },
+        {
+          "client_id": "413696940358-3kaviloe6dq40d4kgso0sbafp41ufnij.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaBB_xIUiTIE3Hc90Tpai9duSKNTJj3KM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "413696940358-3kaviloe6dq40d4kgso0sbafp41ufnij.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
